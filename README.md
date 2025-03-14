@@ -3,6 +3,8 @@
 ## <h2>📈 Project Overview</h2>
 This project aims to perform an in-depth Exploratory Data Analysis (EDA) on crime data from 2020. The dataset provides detailed records of criminal activities across various regions, including information on crime types, victim demographics, and case statuses. The goal is to uncover meaningful insights that can inform public safety strategies, assist law enforcement agencies, and support policymakers in developing effective crime prevention initiatives.
 
+The dataset is taken from kaggle. Link for the dataset:https://www.kaggle.com/datasets/arpitsinghaiml/u-s-crime-dataset
+
 ## <h2>📝 Dataset Description</h2>
 The dataset contains the following key attributes:
 - **🌎 DR_NO**: Unique crime report number
